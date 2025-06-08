@@ -1,0 +1,36 @@
+
+# Virtual Environment
+venv/
+env/
+
+# Environment variables
+.env
+# Uncomment the line below to track .env_example
+# !.env_example
+
+# Generated files
+*.mp4
+# Exceptions for specific files you may want to track
+# !book_memory.mp4
+
+*.json
+# !book_index.json
+
+*.pdf
+# !the-state-of-ai-how-organizations-are-rewiring-to-capture-value_final.pdf
+
+*.faiss
+# !book_index.faiss
+
+*.faiss.index
+output/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
