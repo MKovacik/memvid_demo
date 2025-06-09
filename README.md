@@ -51,6 +51,11 @@ python pdf_chat.py --provider google
 python pdf_chat.py --provider anthropic
 ```
 
+## Screenshot
+
+![Memvid Demo Screenshot](screenshots/Screenshot%202025-06-08%20at%2023.24.23.png)
+
+
 ### How it works
 
 1. The script reads the PDF file specified in the code
